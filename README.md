@@ -8,7 +8,7 @@ Requirements
 This tool require python3
 
 Installation
-git clone https://github.com/techchipnet/HiddenWave.git
+git clone https://github.com/BishalEdwin/Hidden-Wave.git
 cd HiddenWave
 Usage
 Hiddenwave have two python scripts.
